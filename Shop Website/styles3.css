@@ -1,0 +1,98 @@
+h1{
+   color: white;
+   font-family: sans-serif;
+   text-align: center;
+   font-size: 40px;
+   
+}
+
+body {
+    background-color: #292929;
+    margin: 0px;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+h2 {
+    text-align: center;
+    color:white;
+    font-family: sans-serif;
+    margin-bottom: 0px;
+    
+    font-size: 30px;
+}
+p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    word-spacing: 1px;
+    margin-top: 40px;
+}
+ol {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    list-style-type: none;
+    word-spacing: 4px;
+    font-family: sans-serif;
+    position: absolute;
+    right: 567px;
+    line-height: 35px;
+}
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/img/trucks.jpg);
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+   
+a {
+    text-decoration: none;
+    color: white;
+    padding: 2vw;
+    font-family: sans-serif;
+    display: block;
+    font-size: 18px;
+    margin-right: 25px;
+}
+
+a:hover {
+    background-color: #292929;
+    transition: .5s;
+}
+nav {  
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+
+ul li {
+    list-style-type: none;
+    margin: 0 5vw;
+    font-size: 3vh;
+    display: inline-flex;
+    
+}
+
+    .webs {
+    
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    padding-bottom: 80px;
+    padding-top: 0px;
+    position: absolute;
+    right: 60px;
+    left: 60px;
+    top: 10px;
+    font-size: 18px;
+    }
