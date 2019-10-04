@@ -43,7 +43,7 @@ h2 {
     position: absolute;
     text-align: center;
     width: 97%;
-    top: 160px;
+    top: 140px;
     min-width: 300px;
 }
 a {
@@ -68,6 +68,8 @@ ul li {
     margin: 0 5vw;
     font-size: 3vh;
     display: inline-flex;
+    position: relative;
+    z-index: 1;
     
 }
 hr {
