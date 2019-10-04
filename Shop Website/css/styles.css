@@ -51,7 +51,7 @@ h2 {
 h3 {
     color: white;
     text-align: center;
-    font-size: 30px;
+    font-size: 30px;s
 }
 ol li {list-style-type: none;
 }
@@ -81,7 +81,7 @@ ol li {
 
 a {
     text-decoration: none;
-    color: white;
+    color: #ffffff;
     padding: 2vw;
     font-family: sans-serif;
     display: block;
