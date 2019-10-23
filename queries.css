@@ -1,0 +1,20 @@
+
+@media only screen and (max-width: 1200px) {
+    
+}
+
+/* ipad in portrait mode */
+@media only screen and (max-width: 1023px) {
+    
+}
+
+/* Large Phones: from 481 to 767px */
+@media only screen and (max-width: 767px) {
+    
+}
+
+/* Small Phones: from 0 to 480px */
+@media only screen and (max-width: 480px) {
+    
+}
+

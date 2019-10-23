@@ -1,0 +1,107 @@
+* {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+body {
+    background-color: #292929;
+    padding-bottom: 50px;
+}
+
+.location {
+     
+    color: white;
+    font-size: 18px;
+    font-family: lato, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-right: 35px;
+}
+h1 {
+    color:white;
+    
+    font-family: Lato, sans-serif;
+    word-spacing:25px;
+    font-size: 75px;
+    text-align: center;
+    
+    position:relative;
+    top: 5%;
+   -webkit-text-stroke-width: 2.5px;
+   -webkit-text-stroke-color: #b41a1a;
+}
+
+nav {  
+    width: 100%;
+    background-color: #202020;
+    text-align: center;
+    width: 100%;
+    min-width: 300px;
+}
+
+h2 {
+    color:white;
+    
+    font-family: Lato, sans-serif;
+    word-spacing: 10px;
+    font-size: 45px;
+    margin-bottom: 4%;
+    text-align: center;
+    margin-top: 4%;
+    font-weight: 300;
+    margin-right: 2%;
+}
+.phone {
+    position: absolute;
+    text-align: center;
+    width: 97%;
+    top: 140px;
+    min-width: 300px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    padding: 2vw;
+    font-family: lato, sans-serif;
+    display: block;
+    font-size: 18px;
+    margin-right: 25px;
+}
+
+a:hover {
+    background-color: black;
+    transition: .5s;
+    border-radius: 12%;
+    color: darkorange;
+}
+
+ul li {
+    list-style-type: none;
+    margin: 0 5vw;
+    font-size: 3vh;
+    display: inline-flex;
+    position: relative;
+    z-index: 1;
+    left: 9px;
+}
+hr {
+    border: .5px solid white;
+}
+p {
+    color: white;
+    font-size: 20px;
+    font-family: lato, sans-serif;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 45px;
+    line-height: 30px;
+}
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.0)), url(truck.jpg);
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+   
